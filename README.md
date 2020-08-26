@@ -7,5 +7,5 @@ This java implementation can be used to run network analysis for gene expresssio
     tar the folder back to lemontree.tar.gz again
 
 1. upload all files to chtc
-2. run the dagman file  by  condor_submmit_dag lemontree.dag
+2. run the dagman file  by  condor_submit_dag lemontree.dag
 3. select returned  go_output.txt and tight_clusterings.txt  file
